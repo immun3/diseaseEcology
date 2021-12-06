@@ -46,7 +46,7 @@ p {
 }
 
 blockquote {
-    margin-left: 55px;
+    margin-left: 65px;
     margin-right: 55px;
 }
 
@@ -55,6 +55,12 @@ img {
 }
 
 button {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
     margin-left: 55px;
     margin-right: 55px;
 }

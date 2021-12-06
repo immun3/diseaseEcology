@@ -1,0 +1,60 @@
+html {
+    background-color: #FAE8CD;
+
+    background-image:
+    url(images/coquiLogoTaino_shrunk.png), 
+    url(images/coquiLogoTaino_shrunk.png);
+    background-position: left top, right top;
+    background-repeat: repeat-y, repeat-y;
+
+    margin-top: 30px;
+}
+
+head {
+
+}
+
+title {
+
+}
+
+body {
+    
+}
+
+h1 {
+    text-align: center;
+
+    margin-left: 55px;
+    margin-right: 55px;
+}
+h2 {
+    background-color: #C74029;
+    border: 5px solid #385052;
+
+    margin-left: 55px;
+    margin-right: 55px;
+}
+h3 {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+p {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+blockquote {
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+img {
+    margin-left: 55px;
+}
+
+button {
+    margin-left: 55px;
+    margin-right: 55px;
+}

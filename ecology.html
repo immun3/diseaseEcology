@@ -7,6 +7,12 @@
             DECR – Ecology
         </title>
         <link rel="icon" type="image/x-icon" href="images/coquiBori_favicon1.ico">
+        <style>
+            img, map {
+              margin-left: 55px;
+              margin-right: 55px;
+            }
+        </style>
     </head>
     <body>
         <h1>
@@ -18,5 +24,22 @@
                 width:64px;height:57px;">
             </a>
         </h1>
+        <h2>
+            Batrachochytrid virulence factors
+        </h2>
+        <p style="font-size: larger;">
+            Explore some of the various interesting determinants of virulence in Batrachochytrids:
+        </p>
+
+        <img src="images/bd_eco_stripped.png" alt="Bd ecology map - stripped" usemap="#bdEcoMapS" width="87%" height="550">
+        <map name="bdEcoMapS">
+            <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
+        </map>
+        <script>
+        function myFunction() {
+            alert("You clicked the coffee cup!");
+        }
+        </script>
+
     </body>
 </html>

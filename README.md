@@ -1,2 +1,2 @@
 # dizzEco
-website for Dr. Longo's PCB3402 Disease Ecology course
+website inspired by Dr. Ana Longo's PCB3402 – Disease Ecology course at University of Florida
